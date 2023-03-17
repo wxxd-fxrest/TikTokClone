@@ -47,7 +47,7 @@ class SignUpScreen extends StatelessWidget {
               const Text("Already have an account?"),
               Gaps.h5,
               Text(
-                "Log in",
+                "Log In",
                 style: TextStyle(
                     fontWeight: FontWeight.w600,
                     color: Theme.of(context).primaryColor),
